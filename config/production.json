@@ -1,0 +1,12 @@
+{
+    "port" : 8000,
+    "mysql" : {
+       "host"       : "localhost",
+       "user"       : "issue",
+       "password"   : "issue",
+       "database"   : "issue_db",
+       "connectionLimit" : 10,
+       "multipleStatements" : true
+    },
+    "TOKEN_KEY" : "92897465621789:jwt"
+}
